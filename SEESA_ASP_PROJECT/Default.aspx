@@ -14,7 +14,7 @@
                      
                     <asp:Label ID="Label1" runat="server" Text=""></asp:Label>
             </li>
-            <li>for multiples of 5 "Buzz" including the number. 
+            <li>For multiples of 5 "Buzz" including the number. 
                     
                     <asp:Label ID="Label2" runat="server" Text=""></asp:Label>
             </li>
